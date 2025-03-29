@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram dengan fitur serangan dan premium user",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "latest",
+    "fs-extra": "^11.2.0",
+    "random-useragent": "latest",
+    "axios": "latest"
+  }
+}
